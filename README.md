@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Danya Vetrenyy (@dvetrenyy)
+- 👋 Hi, I’m Danya Vetrenyy (@dvetrenyy) // (he/him) but I'm ok with any pronouns honestly, this one are just ones that I'm used to
 - 👀 I’m interested in programming languages and languages in general as well as game development
 - 🌱 I’m currently learning python at my university (I'm studing for "fundametal and applied linguistics bechelor" in SUSU, Russia)
 and I'm also self-educating in C/C++, Rust, JavaScript and Julia.
