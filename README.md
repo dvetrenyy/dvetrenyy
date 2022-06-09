@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Daniil Vetrenyy (@dvetrenyy)
+- 👋 Hi, I’m Danya Vetrenyy (@dvetrenyy)
 - 👀 I’m interested in programming languages and languages in general as well as game development
 - 🌱 I’m currently learning python at my university (I'm studing for "fundametal and applied linguistics bechelor" in SUSU, Russia)
 and I'm also self-educating in C/C++, Rust, JavaScript and Julia.
